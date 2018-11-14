@@ -7,11 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5eb3d29b-97aa-4011-b8f1-ca16a97605df" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Ejer5_Peliculas/10_40_14_11_2018.patch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Android" beforeDir="false" afterPath="$PROJECT_DIR$/Android" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Componentes" beforeDir="false" afterPath="$PROJECT_DIR$/Componentes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejer5_Peliculas" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer5_Peliculas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Componentes/app/src/main/java/com/example/ero/componentes/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Componentes/app/src/main/java/com/example/ero/componentes/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejer5_Peliculas/app/src/main/java/com/example/ero/ejer5_peliculas/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer5_Peliculas/app/src/main/java/com/example/ero/ejer5_peliculas/Pelicula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejer5_Peliculas/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Ejer5_Peliculas/gradlew.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tema2_Ejer2" beforeDir="false" afterPath="$PROJECT_DIR$/Tema2_Ejer2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema3_Ejer2/app" beforeDir="false" afterPath="$PROJECT_DIR$/Tema3_Ejer2/app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema2_Ejer2/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Tema2_Ejer2/gradlew.bat" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +38,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -49,6 +51,7 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542189579104</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="6">
+      <created>1542190002495</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542190002495</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -158,11 +168,11 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32922733" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32922733" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2728719" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2728719" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
